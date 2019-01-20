@@ -1,5 +1,5 @@
 public class Resource
-{//interger class
+{//integer class
   private int targetNumber;
   
   public Resource( int target )
